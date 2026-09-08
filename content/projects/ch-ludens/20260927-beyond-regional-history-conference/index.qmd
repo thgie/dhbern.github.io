@@ -16,25 +16,21 @@ author:
 ---
 
 ::: {#flow-hero .flow-hero}
-  ::: {.flow-eyebrow}
-  Conference
-  :::
+::: {.flow-eyebrow}
+Conference
+:::
 
-  ## Beyond Regional Histories
+## Beyond Regional Histories
 
-  ::: {.flow-subtitle}
-  Digital Game Design & Ludic Cultures Around the World
-  :::
+::: {.flow-subtitle}
+Digital Game Design & Ludic Cultures Around the World
+:::
 
-  ::: {.flow-meta}
-  - **Dates:** 27–30 September 2026
-  - **Location:** Monte Verità, Ticino
-  :::
+::: {.flow-meta}
+- **Dates:** 27–30 September 2026
+- **Location:** Monte Verità, Ticino
+:::
 
-  ::: {.flow-cta-row}
-  [View program](#conference-program)
-  [Participant’s guide](#participants-guide)
-  :::
 :::
 
 
