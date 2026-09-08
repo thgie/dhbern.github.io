@@ -1,0 +1,33 @@
+---
+title: "Materializing Design"
+subtitle: "Practice-Based Research and the Creation of Born-Digital Artefacts"
+event-date: "2026.09.25"
+date: "2026.09.04"
+categories:
+  - Event
+location: "Unitobler, University of Bern"
+author:
+  - name: "Digital Humanities, University of Bern"
+    affiliations:
+      - name: "University of Bern"
+        department: "Digital Humanities"
+        city: "Bern"
+        country: "Switzerland"
+    role: "Organizer"
+---
+
+As part of a scientific exchange with Dr. Rilla Khaled, we organize a workshop on the topic of documenting and researching the creation process of born-digital artefacts. For participation, please register at [digitalhumanities@unibe.ch](mailto:digitalhumanities@unibe.ch).
+
+- **Date:** 25 September 2026
+- **Time:** 09:00-12:00
+- **Location:** Unitobler, University of Bern
+
+This open exchange explores how practice-based research methodologies can bridge creative practice and academic inquiry, particularly when the creation of born-digital artefacts within research workflows, where the process could potentially be of interest and insight to the researcher, becomes a central methodological concern. The session is structured in three parts.
+
+**First**, Dr. Rilla Khaled (Concordia University, TAG Research Centre) introduces the **Method for Design Materialization (MDM)**, a framework for capturing and theorizing the tacit knowledge produced during the creation of born-digital artefacts. Drawing on her extensive work with reflective documentation, version-controlled repositories, and iterative prototyping, she shares how MDM is operationalised in research contexts, presents concrete example cases from ongoing projects, and distils key takeaways for researchers seeking to integrate making and knowing.
+
+**Second**, Adrian Demleitner (University of Bern/HKB) offers a concrete walkthrough of applying MDM in the case study *Ostrakinda*. He discusses how the analytical phase—combining constructivist grounded theory, critical code studies, and material inquiry—yielded the emergent theory of the **designer as guest** and **materials as hosts**, and reflects on the methodological challenges of retroactive sense-making with born-digital archives.
+
+**Third**, the session opens into a collaborative exchange. Researchers and practitioners from Digital Humanities and Design Research are invited to bring their own concrete cases, methodological puzzles, or ongoing projects. Together with Khaled and Demleitner, participants discuss how MDM's principles of reflective documentation, iterative prototyping, and qualitative material analysis might translate to their own contexts, particularly when the creation of born-digital artefacts within research workflows could be of interest and insight to the researcher, and identify shared challenges across disciplines.
+
+The session is designed for MA and PhD students, early-career researchers, and faculty from Digital Humanities, Design Research, and Computer Science. No prior technical expertise in game design or software development is required.

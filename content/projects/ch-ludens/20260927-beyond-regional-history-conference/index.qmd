@@ -1,0 +1,177 @@
+---
+title: Beyond Regional Histories
+subtitle: Digital Game Design & Ludic Cultures Around the World
+date: 2026.09.07
+event-date: 2026.09.27
+categories:
+  - Event
+  - Confoederatio Ludens
+  - Project
+location: Monte Verità, Ticino
+author:
+  - name: Addrich Mauch
+    orcid: 0009-0002-5089-6223
+    email: addrich.mauch@unibe.ch
+    role: author
+---
+
+::: {#flow-hero .flow-hero}
+  ::: {.flow-eyebrow}
+  Conference
+  :::
+
+  ## Beyond Regional Histories
+
+  ::: {.flow-subtitle}
+  Digital Game Design & Ludic Cultures Around the World
+  :::
+
+  ::: {.flow-meta}
+  - **Dates:** 27–30 September 2026
+  - **Location:** Monte Verità, Ticino
+  :::
+
+  ::: {.flow-cta-row}
+  [View program](#conference-program)
+  [Participant’s guide](#participants-guide)
+  :::
+:::
+
+
+::: {.panel-tabset}
+## Home
+
+### Welcome
+
+Welcome to our website\! Here, you will find:
+
+- [The conference program](#conference-program).
+- [The participant’s guide](#participants-guide)
+
+This conference is the final conference of the research project [Confoederatio Ludens](https://chludens.ch/), co-organized by the [Digital Humanities of the University of Bern](https://www.dh.unibe.ch/), the [Bern Academy of the Arts](https://www.hkb.bfh.ch/en/), the [Zurich University of the Arts](https://www.zhdk.ch/en/zurich-university-of-the-arts-1), and the [University of Lausanne](https://www.unil.ch/unil/en/home.html) and funded by the [Swiss National Science Foundation (SNSF)](https://www.snf.ch/en).
+
+## Conference program
+
+::: {.program-note}
+Schedule at a glance (subject to minor updates).
+:::
+
+::: {.program-day}
+### **Day 0 – Sunday, 27.09.**
+
+| When | Session | Content |
+| :---- | :---- | :---- |
+| 15:00 |  | Start Check-In Shuttles (separat list) |
+| 18:30 |  | **Welcome Drink** |
+| 19:30 |  | *Dinner* |
+:::
+
+::: {.program-day}
+### **Day 1 – Monday, 28.09.**
+
+| When        | Session                                         | Content                                                                                                                                                                                                                                                                                                                                                        |
+| :---------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 07:30       |                                                 | *Breakfast*                                                                                                                                                                                                                                                                                                                                                    |
+| 09:00       | Opening                                         | Monte Verità Welcome Address                                                                                                                                                                                                                                                                                                                                   |
+| 09:10–09:25 |                                                 | Introduction by CH-Ludens                                                                                                                                                                                                                                                                                                                                      |
+| 09:30-10:30 | **File\_1**<br>*Chair*: **Yannick Rochat**      | **Why Local Game History?**<br>- *Doing Game History: Notes Towards a Periodisation* by **Melanie Swalwell**<br>- *Four Years of CH Ludens. What we did and what we think we did* by **Eugen Pfister**                                                                                                                                                         |
+| 10:30-11:00 |                                                 | *Coffee Break*                                                                                                                                                                                                                                                                                                                                                 |
+| 11:00-11:30 |                                                 | Speed Date Walk                                                                                                                                                                                                                                                                                                                                                |
+| 11:30-12:30 | **File\_2**<br>*Chair*:  **Arno Görgen**        | **Sources and how to find them: “History has a beginning in sources, but also in the gaps within and between sources.”** <br>- *Before and after Gaming the Iron Curtain: How new findings expand and recontextualize Czechoslovak game history* by **Jaroslav Svelch** <br>- *The Reghex Method: Streamlining Video Game Excavation* by **Pierre-Yves Hurel** |
+| 12:30–14:00 |                                                 | *Lunch*                                                                                                                                                                                                                                                                                                                                                        |
+| 14:00–15:00 | **File\_3**<br>*Chair*: **Pierre-Yves Hurel**   | **Hardware / Local Platforms**<br>- *Local History and History of Local Platforms in Video Games History: Quickly Issues and Express Perspectives* by **Alexis Blanchet**<br>- **TBA**                                                                                                                                                                         |
+| 15:00–15:30 |                                                 | **Peer Walk**                                                                                                                                                                                                                                                                                                                                                  |
+| 15:30-16:00 |                                                 | *Coffee Break*                                                                                                                                                                                                                                                                                                                                                 |
+| 16:00–17:00 | **File\_4**<br>*Chair*: **Mela Kocher**         | **Software / Game Design / Culture**<br>- *A Grassroots Oral History of Video Games in Quebec: From Written to Crowdsourced Data* by **Bernard Perron** & **Dominic Arsenault**<br>- *Feeling Play - Ludemes as Tacit Knowledge* by **Adrian Demleitner**                                                                                              |
+| 17:15–18:15 | **File\_5**<br>*Chair*: **Aurelia Brandenburg** | **Game Legacy / Preservation / Game Labs**<br>- *Video Game Heritage in Switzerland: a landscape of practices* by **Magalie Vetter**<br>- *The game archive of the GameLab ZHdK: preservation on the sidelines* by **Beat Suter** & **Noémie Chow**                                                                                                            |
+| 19:00       |                                                 | *Dinner*                                                                                                                                                                                                                                                                                                                                                       |
+| 20:30       |                                                 | **Evening Surprise Event**                                                                                                                                                                                                                                                                                                                                     |
+:::
+
+::: {.program-day}
+### **Day 2 – Tuesday, 29.09.**
+
+| Time        | Session                                        | Content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :---------- | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 07:30       |                                                | *Breakfast*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 09:00       | Opening                                        | *Hello & Preview of the Day* (Addrich Mauch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 09:10-10:10 | **File\_6**<br>*Chair*: **Eugen Pfister**         | Presentation **5 Case Studies**: *Course de voitures* \[Smacky 6\], (unknown, 1977-1980). **Yannick Rochat** *Kona* \[PC\], Parabole (Parabole, 2016).  *The Dame was Loaded* \[PC\], Beam Software (Philips Interactive Media, 1996). **Bernard Perron** & **Dominic Arsenault** *The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989* \[Sinclair ZX Spectrum\] (Anonymous, 1989). **Melanie Swalwell** *Mythos I* \[C64\], Axis Komputerkunst/Karsten Köper (Ariolasoft, 1985). **Ann-Kristin Potthast** |
+| 10:10-10:40 |                                                | *Coffee Break*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 10:40-12:30 | **File\_6.EXE**                                | Hands-On Case Studies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 12:30–14:00 |                                                | *Lunch Break*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 14:00–15:00 | **File\_7**<br>*Chair*: **Hiloko Kato**           | **Transnational and Regional Game Studies**<br>- *What is DACH Game Studies? Between International History and Local Microstudies* by **Tobias Winnerling**<br>- *German or German-Speaking? Gaming Magazines as Transnational and Regional Sources* by **Aurelia Brandenburg**                                                                                                                                                                                                                                                          |
+| 15:00–16:00 | **File\_8**<br>*Chair*: **Tobias Hodel**          | **Reception / Game Cultures**<br>- *How video game journalists contribute to shape video game culture* by **Boris Krywicki**<br>- *Swiss Gamescapes+* by **Arno Görgen** & **Addrich Mauch**                                                                                                                                                                                                                                                                                                                                             |
+| 16:00-16:30 |                                                | *Coffee Break*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 16:30       | **File\_Final**<br>*Chair*: **Adrian Demleitner** | **What’s Next Beyond Regional History in Game Studies?**   *Plenum*                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 18:00       |                                                | *Free time*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 18:45       |                                                | Meeting for walk to the Grotto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 19:30       |                                                | *Dinner at the **Grotto Broggini***                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+::: 
+
+::: {.program-day}
+### **Day 3 – Wednesday, 30.09 – Departure**
+
+| Time | Session | Content |
+| :---- | :---- | :---- |
+| 07:30 |  | *Breakfast* |
+| 10:00 |  | Check-Out |
+| X |  | Shuttles |
+:::
+
+## Participant’s Guide
+
+### Getting to Locarno
+
+* By train: Travel to Locarno station. For timetables and tickets, visit [sbb.ch](https://sbb.ch/) or use [this (very good) app](https://www.sbb.ch/en/travel-information/apps/sbb-mobile.html).  
+* By plane: Arrival via Geneva, Zurich, or Basel airports. Direct trains connect with Locarno at least once an hour from Zurich and Basel. For train time tables and tickets, visit [sbb.ch](https://sbb.ch/).  
+* By car: If you plan to use the highway, remember to purchase the [national yearly vignette](https://www.ch.ch/en/vehicles-and-traffic/how-to-behave-in-road-traffic/motorway-vignette) at the border (40 CHF).
+
+### Getting to Monte Verità
+
+* Shuttle Bus:  
+  The shuttle bus stops next to the end of platform 4 (close to where public transport is leaving). Look for the white bus with the Monte Verità logo.
+
+  Time table for the shuttle busses follows soon.  
+
+
+* Public bus  
+    
+  Take bus no. 1 from Locarno railway station to the bus stop "Ascona Centro" (duration: 15 \- 20 minutes).  
+  Please refer to the corresponding timetables.  
+    
+  Please note that the timetables of bus line no. 1 are different for Monday \- Saturday (Lunedì \- Sabato e feriali) and for Sundays and holidays (Domenica e festivi).  
+    
+  From the bus stop "Ascona Centro" you can also reach Monte Verità in 25 \- 30 minutes on foot (follow the "Strada Collina") or by taxi located next to the Autosilo Ascona.    
+    
+* Taxi  
+    
+  Various taxis are available at Locarno railway station. The company "EcoTaxsi" usually has a slightly lower price, reservation required: \+41 91 792 21 01 or 0800 321 321 (free call from Swiss numbers). The ride takes about 15 minutes and costs about CHF 40.00.
+
+
+### Giving Your Talk
+
+If you were asked beforehand to hold an impulse presentation, this should not exceed 15 minutes, followed by a moderated open discussion. We encourage a constructive and inclusive attitude during this time. You can send your presentation at least 2 days in advance to Addrich Mauch (addrich.mauch@unibe.ch) or just bring your own computer.
+
+### Accommodation and Catering on the Monte Verità
+
+* Accomondation, breakfast, lunch, dinner, and coffee breaks are included for all invited guests from Sunday evening Sept. 27 to Wednesday morning Sept. 30 (breakfast).  
+* Additional individual beverages at meals might be charged. We will inform you when something is not included.
+
+### Visit Locarno and Ascona
+
+* We like to encourage you to plan some extra time before arrival or departure to visit Locarno and/or Ascona individually since there will be no time during the conference to do so.  
+
+![](image1.png)
+
+### Electric Plugs
+
+Something that gets often forgotten:
+
+* The voltage in Switzerland, as in most of Europe, is 230V/50 Hz.  
+  Switzerland uses type C (2-pin) and Type J (3-pin) plugs. (Type C 2-pin plugs also fit J sockets.)
+
+![](image2.png)
+
+Source: https://world-power-plugs.com/switzerland
+
+Most power sockets are designed for three pin round plugs. The standard continental type plug with two round pins, applied for many electrical travel products, may be used without problem. We can provide some adapters and more should be available by the hotel.
