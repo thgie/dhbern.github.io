@@ -141,7 +141,7 @@ jobs:
         run: |
           cd _site
           nohup python3 -m http.server 5528 &
-          sleep 3  # Give the server time to start
+          sleep 6  # Give the server time to start
 
       - name: Check for broken links
         run: |

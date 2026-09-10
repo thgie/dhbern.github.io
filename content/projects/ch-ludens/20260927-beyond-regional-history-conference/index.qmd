@@ -16,25 +16,21 @@ author:
 ---
 
 ::: {#flow-hero .flow-hero}
-  ::: {.flow-eyebrow}
-  Conference
-  :::
+::: {.flow-eyebrow}
+Conference
+:::
 
-  ## Beyond Regional Histories
+## Beyond Regional Histories
 
-  ::: {.flow-subtitle}
-  Digital Game Design & Ludic Cultures Around the World
-  :::
+::: {.flow-subtitle}
+Digital Game Design & Ludic Cultures Around the World
+:::
 
-  ::: {.flow-meta}
-  - **Dates:** 27–30 September 2026
-  - **Location:** Monte Verità, Ticino
-  :::
+::: {.flow-meta}
+- **Dates:** 27–30 September 2026
+- **Location:** Monte Verità, Ticino
+:::
 
-  ::: {.flow-cta-row}
-  [View program](#conference-program)
-  [Participant’s guide](#participants-guide)
-  :::
 :::
 
 
@@ -85,7 +81,7 @@ Schedule at a glance (subject to minor updates).
 | 16:00–17:00 | **File\_4**<br>*Chair*: **Mela Kocher**         | **Software / Game Design / Culture**<br>- *A Grassroots Oral History of Video Games in Quebec: From Written to Crowdsourced Data* by **Bernard Perron** & **Dominic Arsenault**<br>- *Feeling Play - Ludemes as Tacit Knowledge* by **Adrian Demleitner**                                                                                              |
 | 17:15–18:15 | **File\_5**<br>*Chair*: **Aurelia Brandenburg** | **Game Legacy / Preservation / Game Labs**<br>- *Video Game Heritage in Switzerland: a landscape of practices* by **Magalie Vetter**<br>- *The game archive of the GameLab ZHdK: preservation on the sidelines* by **Beat Suter** & **Noémie Chow**                                                                                                            |
 | 19:00       |                                                 | *Dinner*                                                                                                                                                                                                                                                                                                                                                       |
-| 20:30       |                                                 | **Evening Surprise Event**                                                                                                                                                                                                                                                                                                                                     |
+
 :::
 
 ::: {.program-day}
@@ -95,7 +91,7 @@ Schedule at a glance (subject to minor updates).
 | :---------- | :--------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 07:30       |                                                | *Breakfast*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 09:00       | Opening                                        | *Hello & Preview of the Day* (Addrich Mauch)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 09:10-10:10 | **File\_6**<br>*Chair*: **Eugen Pfister**         | Presentation **5 Case Studies**: *Course de voitures* \[Smacky 6\], (unknown, 1977-1980). **Yannick Rochat** *Kona* \[PC\], Parabole (Parabole, 2016).  *The Dame was Loaded* \[PC\], Beam Software (Philips Interactive Media, 1996). **Bernard Perron** & **Dominic Arsenault** *The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989* \[Sinclair ZX Spectrum\] (Anonymous, 1989). **Melanie Swalwell** *Mythos I* \[C64\], Axis Komputerkunst/Karsten Köper (Ariolasoft, 1985). **Ann-Kristin Potthast** |
+| 09:10-10:10 | **File\_6**<br>*Chair*: **Eugen Pfister**         | Presentation **5 Case Studies**: *Course de voitures* \[Smacky 6\], (unknown, 1977-1980). **Yannick Rochat** *Kona* \[PC\], Parabole (Parabole, 2016). **Bernard Perron** & **Dominic Arsenault** *The Dame was Loaded* \[PC\], Beam Software (Philips Interactive Media, 1996). **Melanie Swalwell** *The Adventures of Indiana Jones in Wenceslas Square in Prague on January 16, 1989* \[Sinclair ZX Spectrum\] (Anonymous, 1989). **Jaroslav Švelch** *Mythos I* \[C64\], Axis Komputerkunst/Karsten Köper (Ariolasoft, 1985). **Ann-Kristin Potthast** |
 | 10:10-10:40 |                                                | *Coffee Break*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | 10:40-12:30 | **File\_6.EXE**                                | Hands-On Case Studies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 12:30–14:00 |                                                | *Lunch Break*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
